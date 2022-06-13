@@ -1,1 +1,1 @@
-# -Parallel-Circuitized-Distillation-for-Dense-Object-Detection
+# Parallel-Circuitized-Distillation-for-Dense-Object-Detection
